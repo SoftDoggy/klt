@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Klt", "Klt.vcxproj", "{DEACB7C1-9068-4250-A6E0-75F870B69C15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEACB7C1-9068-4250-A6E0-75F870B69C15}.Debug|x86.ActiveCfg = Debug|Win32
+		{DEACB7C1-9068-4250-A6E0-75F870B69C15}.Debug|x86.Build.0 = Debug|Win32
+		{DEACB7C1-9068-4250-A6E0-75F870B69C15}.Release|x86.ActiveCfg = Release|Win32
+		{DEACB7C1-9068-4250-A6E0-75F870B69C15}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

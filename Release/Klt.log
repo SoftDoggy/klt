@@ -1,0 +1,103 @@
+﻿  GPUexample2.c
+D:\VS2015\VC\include\cstdint(18): error C2054: 在“using”之后应输入“(”
+D:\VS2015\VC\include\cstdint(18): error C2061: 语法错误: 标识符“using”
+D:\VS2015\VC\include\cstdint(19): error C2054: 在“using”之后应输入“(”
+D:\VS2015\VC\include\cstdint(19): error C2061: 语法错误: 标识符“using”
+D:\VS2015\VC\include\cstdint(20): error C2054: 在“using”之后应输入“(”
+D:\VS2015\VC\include\cstdint(20): error C2061: 语法错误: 标识符“using”
+D:\VS2015\VC\include\cstdint(21): error C2054: 在“using”之后应输入“(”
+D:\VS2015\VC\include\cstdint(21): error C2061: 语法错误: 标识符“using”
+D:\VS2015\VC\include\cstdint(23): error C2054: 在“using”之后应输入“(”
+D:\VS2015\VC\include\cstdint(23): error C2061: 语法错误: 标识符“using”
+D:\VS2015\VC\include\cstdint(24): error C2054: 在“using”之后应输入“(”
+D:\VS2015\VC\include\cstdint(24): error C2061: 语法错误: 标识符“using”
+D:\VS2015\VC\include\cstdint(25): error C2054: 在“using”之后应输入“(”
+D:\VS2015\VC\include\cstdint(25): error C2061: 语法错误: 标识符“using”
+D:\VS2015\VC\include\cstdint(26): error C2054: 在“using”之后应输入“(”
+D:\VS2015\VC\include\cstdint(26): error C2061: 语法错误: 标识符“using”
+D:\VS2015\VC\include\cstdint(28): error C2054: 在“using”之后应输入“(”
+D:\VS2015\VC\include\cstdint(28): error C2061: 语法错误: 标识符“using”
+D:\VS2015\VC\include\cstdint(29): error C2054: 在“using”之后应输入“(”
+D:\VS2015\VC\include\cstdint(29): error C2061: 语法错误: 标识符“using”
+D:\VS2015\VC\include\cstdint(30): error C2054: 在“using”之后应输入“(”
+D:\VS2015\VC\include\cstdint(30): error C2061: 语法错误: 标识符“using”
+D:\VS2015\VC\include\cstdint(31): error C2054: 在“using”之后应输入“(”
+D:\VS2015\VC\include\cstdint(31): error C2061: 语法错误: 标识符“using”
+D:\VS2015\VC\include\cstdint(33): error C2054: 在“using”之后应输入“(”
+D:\VS2015\VC\include\cstdint(33): error C2061: 语法错误: 标识符“using”
+D:\VS2015\VC\include\cstdint(34): error C2054: 在“using”之后应输入“(”
+D:\VS2015\VC\include\cstdint(34): error C2061: 语法错误: 标识符“using”
+D:\VS2015\VC\include\cstdint(37): error C2061: 语法错误: 标识符“tr1”
+D:\VS2015\VC\include\cstdint(37): error C2059: 语法错误:“;”
+D:\VS2015\VC\include\cstdint(37): error C2449: 在文件范围内找到“{”(是否缺少函数头?)
+D:\VS2015\VC\include\cstdint(55): error C2059: 语法错误:“}”
+D:\VS2015\VC\include\cstdlib(18): error C2054: 在“using”之后应输入“(”
+D:\VS2015\VC\include\cstdlib(18): error C2061: 语法错误: 标识符“using”
+D:\VS2015\VC\include\cstdlib(19): error C2061: 语法错误: 标识符“using”
+D:\VS2015\VC\include\cstdlib(19): error C2061: 语法错误: 标识符“abs”
+D:\VS2015\VC\include\cstdlib(19): error C2059: 语法错误:“;”
+D:\VS2015\VC\include\cstdlib(19): error C2061: 语法错误: 标识符“atexit”
+D:\VS2015\VC\include\cstdlib(20): error C2061: 语法错误: 标识符“atof”
+D:\VS2015\VC\include\cstdlib(20): error C2059: 语法错误:“;”
+D:\VS2015\VC\include\cstdlib(20): error C2061: 语法错误: 标识符“atoi”
+D:\VS2015\VC\include\cstdlib(20): error C2061: 语法错误: 标识符“atol”
+D:\VS2015\VC\include\cstdlib(21): error C2061: 语法错误: 标识符“bsearch”
+D:\VS2015\VC\include\cstdlib(21): error C2059: 语法错误:“;”
+D:\VS2015\VC\include\cstdlib(21): error C2061: 语法错误: 标识符“calloc”
+D:\VS2015\VC\include\cstdlib(21): error C2061: 语法错误: 标识符“div”
+D:\VS2015\VC\include\cstdlib(22): error C2061: 语法错误: 标识符“exit”
+D:\VS2015\VC\include\cstdlib(22): error C2059: 语法错误:“;”
+D:\VS2015\VC\include\cstdlib(22): error C2061: 语法错误: 标识符“free”
+D:\VS2015\VC\include\cstdlib(23): error C2061: 语法错误: 标识符“labs”
+D:\VS2015\VC\include\cstdlib(23): error C2059: 语法错误:“;”
+D:\VS2015\VC\include\cstdlib(23): error C2061: 语法错误: 标识符“ldiv”
+D:\VS2015\VC\include\cstdlib(23): error C2061: 语法错误: 标识符“malloc”
+D:\VS2015\VC\include\cstdlib(24): error C2061: 语法错误: 标识符“mblen”
+D:\VS2015\VC\include\cstdlib(24): error C2059: 语法错误:“;”
+D:\VS2015\VC\include\cstdlib(24): error C2061: 语法错误: 标识符“mbstowcs”
+D:\VS2015\VC\include\cstdlib(24): error C2061: 语法错误: 标识符“mbtowc”
+D:\VS2015\VC\include\cstdlib(25): error C2061: 语法错误: 标识符“qsort”
+D:\VS2015\VC\include\cstdlib(25): error C2059: 语法错误:“;”
+D:\VS2015\VC\include\cstdlib(25): error C2061: 语法错误: 标识符“rand”
+D:\VS2015\VC\include\cstdlib(25): error C2061: 语法错误: 标识符“realloc”
+D:\VS2015\VC\include\cstdlib(26): error C2061: 语法错误: 标识符“srand”
+D:\VS2015\VC\include\cstdlib(26): error C2059: 语法错误:“;”
+D:\VS2015\VC\include\cstdlib(26): error C2061: 语法错误: 标识符“strtod”
+D:\VS2015\VC\include\cstdlib(26): error C2061: 语法错误: 标识符“strtol”
+D:\VS2015\VC\include\cstdlib(27): error C2061: 语法错误: 标识符“strtoul”
+D:\VS2015\VC\include\cstdlib(27): error C2059: 语法错误:“;”
+D:\VS2015\VC\include\cstdlib(28): error C2061: 语法错误: 标识符“wcstombs”
+D:\VS2015\VC\include\cstdlib(28): error C2059: 语法错误:“;”
+D:\VS2015\VC\include\cstdlib(28): error C2061: 语法错误: 标识符“wctomb”
+D:\VS2015\VC\include\cstdlib(30): error C2054: 在“using”之后应输入“(”
+D:\VS2015\VC\include\cstdlib(33): error C2061: 语法错误: 标识符“using”
+D:\VS2015\VC\include\cstdlib(34): error C2061: 语法错误: 标识符“system”
+D:\VS2015\VC\include\cstdlib(34): error C2059: 语法错误:“;”
+D:\VS2015\VC\include\cstdlib(37): error C2061: 语法错误: 标识符“atoll”
+D:\VS2015\VC\include\cstdlib(37): error C2059: 语法错误:“;”
+D:\VS2015\VC\include\cstdlib(37): error C2061: 语法错误: 标识符“llabs”
+D:\VS2015\VC\include\cstdlib(37): error C2061: 语法错误: 标识符“lldiv”
+D:\VS2015\VC\include\cstdlib(38): error C2061: 语法错误: 标识符“strtof”
+D:\VS2015\VC\include\cstdlib(38): error C2059: 语法错误:“;”
+D:\VS2015\VC\include\cstdlib(38): error C2061: 语法错误: 标识符“strtold”
+D:\VS2015\VC\include\cstdlib(39): error C2061: 语法错误: 标识符“strtoll”
+D:\VS2015\VC\include\cstdlib(39): error C2059: 语法错误:“;”
+D:\VS2015\VC\include\cstdlib(39): error C2061: 语法错误: 标识符“strtoull”
+D:\VS2015\VC\include\cstdlib(41): error C2061: 语法错误: 标识符“_Exit”
+D:\VS2015\VC\include\cstdlib(41): error C2059: 语法错误:“;”
+D:\VS2015\VC\include\cstdlib(41): error C2061: 语法错误: 标识符“at_quick_exit”
+D:\VS2015\VC\include\cstdlib(41): error C2061: 语法错误: 标识符“quick_exit”
+D:\VS2015\VC\include\cmath(17): error C2061: 语法错误: 标识符“noexcept”
+D:\VS2015\VC\include\cmath(17): error C2059: 语法错误:“;”
+D:\VS2015\VC\include\cmath(18): error C2449: 在文件范围内找到“{”(是否缺少函数头?)
+D:\VS2015\VC\include\cmath(20): error C2059: 语法错误:“}”
+D:\VS2015\VC\include\cmath(30): error C2061: 语法错误: 标识符“noexcept”
+D:\VS2015\VC\include\cmath(30): error C2059: 语法错误:“;”
+D:\VS2015\VC\include\cmath(31): error C2449: 在文件范围内找到“{”(是否缺少函数头?)
+D:\VS2015\VC\include\cmath(33): error C2059: 语法错误:“}”
+D:\VS2015\VC\include\cmath(40): error C2061: 语法错误: 标识符“noexcept”
+D:\VS2015\VC\include\cmath(40): error C2059: 语法错误:“;”
+D:\VS2015\VC\include\cmath(41): error C2449: 在文件范围内找到“{”(是否缺少函数头?)
+D:\VS2015\VC\include\cmath(43): error C2059: 语法错误:“}”
+D:\VS2015\VC\include\cmath(50): error C2061: 语法错误: 标识符“noexcept”
+D:\VS2015\VC\include\cmath(50): fatal error C1003: 错误计数超过 100；正在停止编译
